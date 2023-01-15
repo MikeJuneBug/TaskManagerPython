@@ -2,7 +2,7 @@
 
 Task Manager program to allocate task to employees, mark as done, calculate completed etc
 
-Capstone project to build on existing task manager code by adding functions, write/read to a file, mark task as complete and provide task statistics.
+Capstone project to build on existing task manager code by debugging, error finding, adding functions, write/read to a file, mark task as complete and provide task statistics.
 
 
 ## Table of Contents
